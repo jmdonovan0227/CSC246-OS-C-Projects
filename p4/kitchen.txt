@@ -1,0 +1,3 @@
+global.c dishes = 305 ( Claire, Lucia, Marcos, Roslyn, and Stephenie all produced 30 dishes which was the fewest dishes produced on this run ).
+ordered.c dishes = 746 ( Napoleon and Marcos both cooked 39 dishes on this run as the fewest dishes made ).
+takeAll.c dishes = 1011 ( Marcos prepared the fewest dishes in this run with 13 ).
